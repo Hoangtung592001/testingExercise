@@ -74,7 +74,7 @@ describe('Kiểm tra function checkPrice() với bảng quyết định', () => 
     });
 });
 
-describe('Kiểm tra function checkPrice() với bảng quyết định', () => {
+describe('Kiểm tra function checkPrice() với trường hợp xấu nhất', () => {
     // Check cho điện thoại.
     it('should be 100 if Điện Thoại và 100%', () => {
         const result = checkPrice('Điện Thoại', 100);

@@ -1,0 +1,24 @@
+Bài tập: Chọn ra một bài toán, lập trình và kiểm thử với 2 kỹ thuật kiểm thử hộp đen.
+Tự đặt ra bài toán: Chấm điểm một sản phẩm để xem sản phẩm có đạt đủ tiêu chuẩn để đạt một mức giá cụ
+100% trên thị trường hay không (Ví dụ như sản phẩm iphone mới thì có thể 30.000.000đ(100% giá) nhưng iphone mới
+99% thì chỉ 25.000.000đ(83.3% giá)). Mức đánh giá tùy theo những loại sản phẩm khác nhau:
+Các loại sản phẩm:
+- Điện thoại:
+- Laptop:
+Độ mới: 
+100%: 
+- Điện thoại: 100% giá
+- Laptop: 100% giá.
+Độ mới 90%-99%: 
+- Điện thoại: 80% giá
+- Máy tính: 85% giá.
+Độ mới 80%-89%:
+- Điện thoại: 70% giá.
+- Laptop: 80% giá.
+Độ mới dưới 80%: Thì cả điện thoại và máy tính đều không được giao bán.
+
+Phương pháp chọn: 
+- Kiểm thử theo trường hợp xấu nhất.
+- Kiểm thử theo kỹ thuật bảng quyết định.
+
+
